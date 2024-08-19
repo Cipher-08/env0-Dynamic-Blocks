@@ -21,7 +21,7 @@ variable "aws_secret_key" {
   
 }
 variable "vpc_id" {
-  description = "ID of the VPC"
+  description = "ID of te VPC"
   type        = string
   default = "vpc-01cd1ac18f2c93b55"
 }
